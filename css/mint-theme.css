@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  
+  --color1 : #00AB78;
+  --color2 : #00ab90;
+  --color3 : #007865;
+  --color4 : #bffff5;
+  --color5 : #80ffeb;
+}
