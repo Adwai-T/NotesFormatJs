@@ -3,4 +3,6 @@
 test.html
 test.css
 
+*.html
+
 highlight.min.js
